@@ -1,1 +1,1 @@
-# Portal do Universo de Star Wars
+# Portal de notícias do Universo de Star Wars
